@@ -1,0 +1,6 @@
+size(600,400)
+fill(255,0,0)
+rotate(radians(45))
+rect(300,85,40,40)
+ellipse(295,105,40,40)
+ellipse(320,80,40,40)
